@@ -12,10 +12,15 @@ small changes like making the sprite names 4 digits.
 ---------------------------
 
 Credits for the small sprites:
+
 [Ezerart](https://www.deviantart.com/ezerart/art/Pokemon-Gen-9-Icon-sprites-3DS-Style-944211258): Most Gen 9 sprites
-[Larryturbo](https://www.deviantart.com/larryturbo/art/Gen-8-Galar-Menu-Box-Sprites-32x32-16-819999589): Most Gen 8 sprites
+
+[Larryturbo](https://www.deviantart.com/larryturbo/art/Gen-8-Galar-Menu-Box-Sprites-32x32-16-819999589): Most Gen 8 
+
 GhostaboArt: electrode-h, wooper-paldea
+
 MrGalleom: Arcanine-h, Slowbro-g, Slowking-g, Glastrier, Spectrier, Zarude, Melmetal, Kleavor
+
 Pikafan200, multidiegodani and MBCmechachu: Other hisuian sprites
 
 ---------------------------
