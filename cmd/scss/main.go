@@ -22,7 +22,14 @@ import (
 const (
 	columns = 32
 
-	preamble = `.pkicon {
+	preamble = `@mixin crisp-rendering() {
+  -ms-interpolation-mode: nearest-neighbor;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+}
+	  
+.pkicon {
   @include crisp-rendering();
 
   display: inline-block;

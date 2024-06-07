@@ -40,8 +40,8 @@ tasks:
       - go run cmd/spritesheet/main.go
       # We could make pngcrush cleanly optional once
       # https://github.com/go-task/task/issues/608 is fixed.
-      - pngcrush -l 9 output/pokesprite.png output/pokesprite-optimized.png
-      - mv output/pokesprite-optimized.png output/pokesprite.png
+      #- pngcrush -l 9 output/pokesprite.png output/pokesprite-optimized.png
+      #- mv output/pokesprite-optimized.png output/pokesprite.png
 
   scss:
     desc: Generate a .scss file for the generated spritesheet using the filenames of the source images.
