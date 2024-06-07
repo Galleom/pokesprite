@@ -4,6 +4,22 @@ Inspired by [msikma/pokesprite](https://github.com/msikma/pokesprite), this repo
 is a simplified version that generates a spritesheet and stylesheet that are
 meant to be used for [PokedexTracker](https://pokedextracker.com).
 
+I mainly added various sprites from gen 8 and 9, including various fan-made sprites
+in order to make (almost?) everything fit in a 32x32 grid like how it was in
+the 3ds gens, removed all shiny sprites and various variants and also some
+small changes like making the sprite names 4 digits.
+
+---------------------------
+
+Credits for the small sprites:
+[Ezerart](https://www.deviantart.com/ezerart/art/Pokemon-Gen-9-Icon-sprites-3DS-Style-944211258): Most Gen 9 sprites
+[Larryturbo](https://www.deviantart.com/larryturbo/art/Gen-8-Galar-Menu-Box-Sprites-32x32-16-819999589): Most Gen 8 sprites
+GhostaboArt: electrode-h, wooper-paldea
+MrGalleom: Arcanine-h, Slowbro-g, Slowking-g, Glastrier, Spectrier, Zarude, Melmetal, Kleavor
+Pikafan200, multidiegodani and MBCmechachu: Other hisuian sprites
+
+---------------------------
+
 It currently consists of 6 scripts:
 
 - `rename` - This renames icons from
